@@ -12,6 +12,48 @@ Der Befehl `ls` zeigt dir den Inhalt des akutellen Verzeichnis an. Ls öffnet di
 die Augen ;)
 
 Mit dem Öffnen deiner Konsole solltest du in deinem `Home`-Verzeichnis gelandet
-sein. Guck dir jetzt den Inhalt deines `Home`-Verzechnis mit `ls` an.
+sein. Guck dir jetzt den Inhalt deines `Home`-Verzechnis mit `ls` an. Irgendwas
+interessantes gefunden? Manchmal verstechen sich die interessanten Datein auch.
+`ls -a` zeigt dir versteckte Dateien an. Kannst du die versteckte Datei
+`.bashrc` finden? Wie groß ist die wohl? `ls -l .bashrc` zeigt dir Informationen
+zur Datei an. `ls -l` zeigt dir Informationen zu einem ganzen Ordner an. Du
+kannst die Optionen auch kombinieren, z.B. `ls -la`. Eine Idee was passiert?
+
+##cd - change directory
+Mit dem `cd` Befehl kannst du dich in der Verzeichnisstruktur bewegen. In Linux
+gibt es ein sogenanntes Wurzelverzeichnis. Das Wurzelverzeichnis ist der oberste
+Punkt in der Verzeichnisstruktur. Mit `cd /` können wir ins Wurzelverzeichnis
+aka root directory wechseln. Im root directory liegen einige wichtige
+Systemordner, die wir uns später angucken können. Mit `cd ~` wechseln wir wieder
+in unser Home-Directory. Die Tilde `~` steht für unser "Home" directory. Es geht
+aber auch noch schneller. Mit `cd` kommst du von jedem Ordner zurück in dein
+Home.
+
+##mkdir - make directories
+Als nächstes wollen wir uns einen Ordner mit ein paar Dateien anlegen. Dazu
+benutzen wir den `mkdir` Befehl. Geh in dein Home-Verzeichnis und leg ein Ordner
+mit dem Name "foo" an. `mkdir foo` sollte den Ordner anlegen. Jetzt wechsel in
+den Ordner und versuch einen Datei anzulegen. 
+
+##touch - 
+Dateien lassen sich z.B. mit
+`touch` anlegen. `touch bar` legt eine neue Datei `bar` ein. Mit `ls` kannst du
+überprüfen, ob die Datei wirklich angelegt wurde.
+
+##rm - remove files or directories
+Meine Oma sagte immer: Lerne Ordnung, liebe sie, sie erspart dir Zeit und Müh.
+Diese Weisheit kommt zwar aus der Vor-Konsolen-Zeit, aber trifft trotzdem auf
+sie zu. Mit dem `rm` Befehl lässt sich wunderbar aufräumen. Wenn du immer noch
+im Ordner foo bist, kannst du mit `rm bar` die "bar"-Datei löschen. Wenn du
+wieder in dein Home-Verzeichniss wechselst mit `cd ..`, kannst du auch den
+Ordner foo löschen. Versuchs mal mit `rm foo`... Geht nich? Verzeichnisse löscht
+man mit `rm -r`. Funktionierts? Manchmal macht Aufräumen auch agressiv. Mancher
+Müll will einfach nicht weg. Da muss Mensch dann Gewalt anwenden. `rm -f`
+entfernt auch hartneckigen Schmutz, aber vorsichtig. manchmal macht es Sinn,
+dass sich Dateien nicht normal entfernen lassen.
+
+
+
+
 
 
