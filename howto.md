@@ -90,4 +90,12 @@ Damit kann man sich nach der aktuellen Systemzeit erkundigen oder diese
 einstellen. Gib `date` in deine Konsole ein. Zum weiteren schick-schnack kannst
 du, richtig, die Manual page von date lesen...
 
+##IPython
+
+`IPython` ist eine verbesserte Shell für Python. Unter anderem ist sie bunt und
+bietet nützliche Features wie z.B. auto-completion. `IPython` gibt es
+[hier](http://ipython.org). Mit `aptitude` geht es auch:
+
+    aptitude install ipython
+
 
