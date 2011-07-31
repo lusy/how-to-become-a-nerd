@@ -98,4 +98,8 @@ bietet nützliche Features wie z.B. auto-completion. `IPython` gibt es
 
     aptitude install ipython
 
+##Oh-my-zsh
 
+`Oh-my-zsh` ist eine Sammlung von verdammt nützlichne Erweiterung für die
+`Z-Shell`. Brauchst du einfach. Findest du
+[hier](https://github.com/robbyrussell/oh-my-zsh).
