@@ -103,3 +103,13 @@ bietet nützliche Features wie z.B. auto-completion. `IPython` gibt es
 `Oh-my-zsh` ist eine Sammlung von verdammt nützlichne Erweiterung für die
 `Z-Shell`. Brauchst du einfach. Findest du
 [hier](https://github.com/robbyrussell/oh-my-zsh).
+
+##Gmate
+
+`Gmate` ist eine Sammlung von Plugins und Verbesserungen für `Gedit`. Mehr
+Information auf [GitHub](https://github.com/gmate/gmate.git).
+
+##Janus
+
+`Janus` ist eine mächtige Sammlung von `vim`-Plugins. Siehe
+[https://github.com/carlhuda/janus](http://github.com/carlhuda/janus)
