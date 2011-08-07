@@ -113,3 +113,10 @@ Information auf [GitHub](https://github.com/gmate/gmate.git).
 
 `Janus` ist eine mächtige Sammlung von `vim`-Plugins. Siehe
 [https://github.com/carlhuda/janus](http://github.com/carlhuda/janus)
+
+##OTR - Off-the-Record Messaging
+
+`OTR` ermöglicht private Unterhaltungen über alle möglichen instant
+messaging Protokolle. (Check it out)[http://www.cypherpunks.ca/otr/].
+Und wenn du gleich beim (Thema)[http://en.wikipedia.org/wiki/Cypherpunk]
+bist...
