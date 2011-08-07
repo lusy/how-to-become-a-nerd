@@ -117,6 +117,6 @@ Information auf [GitHub](https://github.com/gmate/gmate.git).
 ##OTR - Off-the-Record Messaging
 
 `OTR` ermöglicht private Unterhaltungen über alle möglichen instant
-messaging Protokolle. (Check it out)[http://www.cypherpunks.ca/otr/].
-Und wenn du gleich beim (Thema)[http://en.wikipedia.org/wiki/Cypherpunk]
+messaging Protokolle. [Check it out](http://www.cypherpunks.ca/otr/).
+Und wenn du gleich beim [Thema](http://en.wikipedia.org/wiki/Cypherpunk)
 bist...
