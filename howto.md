@@ -100,9 +100,14 @@ bietet nützliche Features wie z.B. auto-completion. `IPython` gibt es
 
 ##Oh-my-zsh
 
-`Oh-my-zsh` ist eine Sammlung von verdammt nützlichne Erweiterung für die
+`Oh-my-zsh` ist eine Sammlung von verdammt nützliche Erweiterung für die
 `Z-Shell`. Brauchst du einfach. Findest du
 [hier](https://github.com/robbyrussell/oh-my-zsh).
+
+#Editoren
+Schon in deinen ersten Wochen als Informatiker*in und Programmierer*in wirst
+du ein Textverarbeitungsprogramm brauchen. Hier spalten sich so ein bisschen die
+Meinungen, was am coolsten, effektivsten und einfachsten 
 
 ##Gmate
 
