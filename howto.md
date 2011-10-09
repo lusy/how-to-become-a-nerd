@@ -6,7 +6,7 @@ gibst du `zsh` um eine Z-Shell zu starten.
 
 Informationen zur Z-Shell gibt es unter ...
 
-#Das Dateisystem
+#Navigieren im Dateisystem
 ##ls - List directory contents
 Der Befehl `ls` zeigt dir den Inhalt des akutellen Verzeichnis an. Ls öffnet dir
 die Augen ;)
@@ -83,7 +83,7 @@ eingibst, dann zeigt sie dir den aktuellen Monat an. Optionell kannst du `cal
 [<month>] [<year>]` angeben, was einen Kalender für die ausgewählten Monat
 und/oder Jahr herzaubert. (Die eckigen Klammern [] bezeichnen optionale
 Angaben).
-Aufgabe: Lass dir den May 1988 anzeigen.
+Aufgabe: Lass dir den Mai 1988 anzeigen.
 
 ##date
 Damit kann man sich nach der aktuellen Systemzeit erkundigen oder diese
